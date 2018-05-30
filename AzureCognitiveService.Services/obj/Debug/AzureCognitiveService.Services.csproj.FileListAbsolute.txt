@@ -1,0 +1,6 @@
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Services\bin\Debug\AzureCognitiveService.Services.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Services\bin\Debug\AzureCognitiveService.Services.pdb
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Services\obj\Debug\AzureCognitiveService.Services.csprojAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Services\obj\Debug\AzureCognitiveService.Services.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Services\obj\Debug\AzureCognitiveService.Services.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Services\obj\Debug\AzureCognitiveService.Services.pdb

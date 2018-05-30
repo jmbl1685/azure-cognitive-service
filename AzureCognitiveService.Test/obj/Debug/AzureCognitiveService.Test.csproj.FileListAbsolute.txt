@@ -1,0 +1,16 @@
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Test.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Test.pdb
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\obj\Debug\AzureCognitiveService.Test.csprojAssemblyReference.cache
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\obj\Debug\AzureCognitiveService.Test.csproj.CoreCompileInputs.cache
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\obj\Debug\AzureCognitiveService.Test.csproj.CopyComplete
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\obj\Debug\AzureCognitiveService.Test.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\obj\Debug\AzureCognitiveService.Test.pdb
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Services.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Services.pdb

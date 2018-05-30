@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCognitiveService.Services", "AzureCognitiveService.Services\AzureCognitiveService.Services.csproj", "{01F6B498-A468-4B35-9CCB-D95864AA6C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCognitiveService.Test", "AzureCognitiveService.Test\AzureCognitiveService.Test.csproj", "{5FD2F8DA-F28B-488F-A452-1E5A0D3F45FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F6B498-A468-4B35-9CCB-D95864AA6C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F6B498-A468-4B35-9CCB-D95864AA6C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F6B498-A468-4B35-9CCB-D95864AA6C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F6B498-A468-4B35-9CCB-D95864AA6C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD2F8DA-F28B-488F-A452-1E5A0D3F45FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD2F8DA-F28B-488F-A452-1E5A0D3F45FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD2F8DA-F28B-488F-A452-1E5A0D3F45FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD2F8DA-F28B-488F-A452-1E5A0D3F45FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFDB4CE2-5244-4727-B24F-8FF2ABF949D0}
+	EndGlobalSection
+EndGlobal

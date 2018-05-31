@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01F6B498-A468-4B35-9CCB-D95864AA6C40}</ProjectGuid>
+    <ProjectGuid>{97A2819D-C375-4807-BB49-D4045781F339}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AzureCognitiveService.Services</RootNamespace>
-    <AssemblyName>AzureCognitiveService.Services</AssemblyName>
+    <RootNamespace>AzureCognitiveService.Utilities</RootNamespace>
+    <AssemblyName>AzureCognitiveService.Utilities</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,16 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AzureCognitiveService.cs" />
-    <Compile Include="ComputerVisionApi\ComputerVisionApi.cs" />
-    <Compile Include="FaceApi\FaceApi.cs" />
+    <Compile Include="Request\Request.cs" />
+    <Compile Include="Response\Response.cs" />
+    <Compile Include="Utilities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\AzureCognitiveService.Utilities\AzureCognitiveService.Utilities.csproj">
-      <Project>{97A2819D-C375-4807-BB49-D4045781F339}</Project>
-      <Name>AzureCognitiveService.Utilities</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

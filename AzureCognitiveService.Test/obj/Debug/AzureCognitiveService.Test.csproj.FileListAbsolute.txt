@@ -14,3 +14,6 @@ C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\Azur
 C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\obj\Debug\AzureCognitiveService.Test.pdb
 C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Services.dll
 C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Services.pdb
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Services.dll.config
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Utilities.dll
+C:\Users\Juan Manuel\Desktop\GitHub Projects\AzureCognitiveService.Services\AzureCognitiveService.Test\bin\Debug\AzureCognitiveService.Utilities.pdb

@@ -59,6 +59,10 @@
       <Project>{01f6b498-a468-4b35-9ccb-d95864aa6c40}</Project>
       <Name>AzureCognitiveService.Services</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AzureCognitiveService.Utilities\AzureCognitiveService.Utilities.csproj">
+      <Project>{97A2819D-C375-4807-BB49-D4045781F339}</Project>
+      <Name>AzureCognitiveService.Utilities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
